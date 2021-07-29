@@ -1,0 +1,72 @@
+{
+  "categoria": [
+    {
+      "nombreCategoria": "Video",
+      "id": 1
+    },
+    {
+      "nombreCategoria": "Sonidos",
+      "id": 2
+    },
+    {
+      "nombreCategoria": "Componentes",
+      "id": 3
+    }
+  ],
+  "producto": [
+    {
+      "nombreProducto": "Auriculares",
+      "categoria": "Video",
+      "marca": "Hp",
+      "descripcion": "auriculares inalambricos",
+      "garantia": "12 meses",
+      "cantidad": "4",
+      "precio": "2000",
+      "id": "1"
+    },
+    {
+      "nombreProducto": "parlantes",
+      "categoria": 0,
+      "idcategoria": "2",
+      "marca": "genius",
+      "descripcion": "parlante inalambrico",
+      "garantia": "6 meses",
+      "cantidad": "3",
+      "precio": "1000",
+      "id": "2RqH3KT"
+    },
+    {
+      "nombreProducto": "monitor",
+      "categoria": "Video",
+      "idcategoria": "1",
+      "marca": "rrr",
+      "descripcion": "rrr",
+      "garantia": "rrr",
+      "cantidad": "r",
+      "precio": "rr",
+      "id": "cpK-rHn"
+    },
+    {
+      "nombreProducto": "gabinete",
+      "categoria": "Componentes",
+      "idcategoria": "3",
+      "marca": "ewrewr",
+      "descripcion": "ewrewr",
+      "garantia": "ewr",
+      "cantidad": "werewr",
+      "precio": "wer",
+      "id": "isErgf3"
+    },
+    {
+      "nombreProducto": "prueba",
+      "categoria": "Video",
+      "idcategoria": "1",
+      "marca": "sfsdfds",
+      "descripcion": "fdsfsdfds",
+      "garantia": "fsdf",
+      "cantidad": "sdfsdf",
+      "precio": "sdf",
+      "id": "dfS7bP4"
+    }
+  ]
+}
